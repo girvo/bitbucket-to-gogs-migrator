@@ -1,0 +1,12 @@
+{
+  "name": "gogs-bitbucket-migration",
+  "version": "1.0.0",
+  "description": "Script to migrate all BitBucket repos to a Gogs installation",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
