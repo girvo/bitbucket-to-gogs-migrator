@@ -1,0 +1,17 @@
+{
+    "base": {
+        "check_exists": false
+    },
+    "gogs": {
+        "url": "",
+        "protocol": "http",
+        "user": "",
+        "password": "",
+        "user_id_receiving": 0
+    },
+    "bitbucket": {
+        "user": "",
+        "password": "",
+        "team": ""
+    }
+}
